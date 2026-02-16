@@ -16,3 +16,5 @@ My favourite mexican cornbread recipe
 - Rothfuss
 
 I **love** fantasy novels
+
+![recipe image](recipe.jpeg)
